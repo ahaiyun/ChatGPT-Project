@@ -11,7 +11,7 @@
 
 可私客QQ: 1014454898
 
-欢迎加入群聊获取最新消息,并限时赠送66种ChatGPT副业赚钱技巧
+欢迎加入群聊获取最新消息，并限时赠送66种ChatGPT副业赚钱技巧
 
  ![屏幕截图 2023-06-19 204501](https://github.com/ahaiyun/ChatGPT-Project/assets/105539354/905341d1-28e2-45c6-8e95-ebe4a5dc4152)
 
