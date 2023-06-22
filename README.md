@@ -1,5 +1,5 @@
 # ChatGPT-Project
-【重磅消息 限时赠送66种ChatGPT副业赚钱技巧】ChatGPT商业网站，无任何加密，可二次开发，意想不到骨折价。
+【重磅消息 限时赠送66种ChatGPT副业赚钱技巧】ChatGPT商业网站，无任何加密，可二次开发，免费领取。
 
 ![屏幕截图 2023-06-19 213349](https://github.com/ahaiyun/ChatGPT-Project/assets/105539354/f8122d48-d222-4152-b5ed-b6c6ecf6f9d2)
 
@@ -11,7 +11,7 @@
 
 可私客QQ: 1014454898
 
-欢迎加入群聊获取最新消息，并限时限额赠送66种ChatGPT副业赚钱技巧
+欢迎加入群聊获取最新消息,一起交流：
 
  ![屏幕截图 2023-06-19 204501](https://github.com/ahaiyun/ChatGPT-Project/assets/105539354/905341d1-28e2-45c6-8e95-ebe4a5dc4152)
 
