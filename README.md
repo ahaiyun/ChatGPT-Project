@@ -13,11 +13,8 @@
 
  ![屏幕截图 2023-06-19 204501](https://github.com/ahaiyun/ChatGPT-Project/assets/105539354/905341d1-28e2-45c6-8e95-ebe4a5dc4152)
 
-源码支持GPT4和绘画，带后台管理系统页面以及详细教程
+源码支持GPT4和绘画，带后台管理系统页面以及详细教程。
 
-除此之外，还有在线gpt聊天和绘画
-
-![屏幕截图 2023-06-19 210755(1)(1)](https://github.com/ahaiyun/ChatGPT-Project/assets/105539354/8ea4c13c-fedd-4177-b3e0-bd5120932cf4)
 
 
 
