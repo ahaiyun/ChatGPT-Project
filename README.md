@@ -10,6 +10,7 @@
 可私客QQ: 1014454898
 
 欢迎加入群聊获取最新消息，一起交流：
+
 ![屏幕截图 2023-06-28 084807](https://github.com/ahaiyun/ChatGPT-Project/assets/105539354/69fcf509-2437-47b5-9913-0c549fc8b32a)
 
 
