@@ -1,4 +1,3 @@
-![屏幕截图 2023-07-11 223120](https://github.com/ahaiyun/ChatGPT-Project/assets/105539354/ef8550be-5d83-4b4e-ba54-b5b70a808ecb)# ChatGPT-Project
 【重磅消息】ChatGPT商业网站，无任何加密，可二次开发，免费领取。
 
 体验: https://gptchat.hyjl.tech  前后端+详细教程，搭建过程有任何疑问可加群讨论。
