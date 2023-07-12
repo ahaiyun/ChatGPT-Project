@@ -6,7 +6,7 @@
 
 号外: https://chatgpt.ai-jl.com
 
-      https://gpts.hyjl.tech
+      [https://gpts.hyjl.tech](https://chatgpt.ai-jl.com)
 
 可私客QQ: 1014454898
 
