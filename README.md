@@ -1,4 +1,4 @@
-# ChatGPT-Project
+![屏幕截图 2023-07-11 223120](https://github.com/ahaiyun/ChatGPT-Project/assets/105539354/ef8550be-5d83-4b4e-ba54-b5b70a808ecb)# ChatGPT-Project
 【重磅消息】ChatGPT商业网站，无任何加密，可二次开发，免费领取。
 
 体验: https://gptchat.hyjl.tech  前后端+详细教程，搭建过程有任何疑问可加群讨论。
@@ -11,7 +11,8 @@
 
 欢迎加入群聊获取最新消息，一起交流：
 
-![屏幕截图 2023-07-04 193721](https://github.com/ahaiyun/ChatGPT-Project/assets/105539354/6ca84934-1063-4bf4-98cb-93e991ab4763)
+![屏幕截图 2023-07-11 223120](https://github.com/ahaiyun/ChatGPT-Project/assets/105539354/9439c012-84fd-4ac9-a886-dc84f8863987)
+
 
 
 源码支持GPT4和绘画，带后台管理系统页面以及详细教程，分享给大家。
