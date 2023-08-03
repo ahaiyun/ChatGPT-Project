@@ -31,7 +31,6 @@
   </div>
 <div>
   <hr style="border:2px dashed hsla(275,58%,45%,0.56)">
-</style>
 </div>
 
 #### 
