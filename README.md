@@ -29,6 +29,11 @@
     <a href="https://qm.qq.com/cgi-bin/qm/qr?k=fXCN3tsKabXb5P935KNB9zkoNGoh_gWO&jump_from=webapi&authKey=oipyB+rk5hL5uvPC0pWlVEmowh6j0e46jF3LfLsmF5P2Nc0W7rciPxZ1y0DYq6ef" class="button" onmouseover="this.style.backgroundColor='green'" onmouseout="this.style.backgroundColor='orange'">加入Q群</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://chatgpt.jjh.ink/" class="button" onmouseover="this.style.backgroundColor='red'" onmouseout="this.style.backgroundColor='crimson'">菁林助手</a>
   </div>
+    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+欢迎加入
+    <a href="https://www.jjh.ink/" class="button" onmouseover="this.style.backgroundColor='red'" onmouseout="this.style.backgroundColor='crimson'">峰会论坛</a>
+  </div>
 <div>
   <hr style="border:2px dashed hsla(275,58%,45%,0.56)">
 </div>
@@ -47,11 +52,7 @@
 
 <h3 style="color:red"></h3>
 
-  <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-欢迎加入
-    <a href="https://www.jjh.ink/" class="button" onmouseover="this.style.backgroundColor='red'" onmouseout="this.style.backgroundColor='crimson'">峰会论坛</a>
-  </div>
+
 
 
 
