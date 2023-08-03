@@ -48,7 +48,11 @@
 
 <h3 style="color:red"></h3>
 
-
+  <div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+更多资源
+    <a href="https://navi.jhmajor.cn/" class="button" onmouseover="this.style.backgroundColor='red'" onmouseout="this.style.backgroundColor='crimson'">菁林科技官网</a>
+  </div>
 
 
 
