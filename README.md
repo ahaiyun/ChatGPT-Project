@@ -17,50 +17,6 @@
 
 源码支持GPT4和绘画，带后台管理系统页面以及详细教程，分享给大家。
 
-<style>
-body {
-  background: linear-gradient(to bottom right, #E0EAFC, #CFDEF3);
-  color: #000000;
-}
-
-.container {
-  display: flex;
-}
-
-.image {
-  width: 50%;
-}
-
-.text {
-  padding: 0 20px;
-  font-size: 18px;
-}
-
-.notice {
-  color: #FFA500;
-  font-size: 20px;
-  font-weight:bold
-  margin-bottom: 10px;
-}
-
-.tips {
-  color: #008000;
-  font-size: 18px;
-  margin-bottom: 10px;
-}
-
-.button {
-  background: linear-gradient(to right, #FFD700, #FF8C00);
-  color: #FFFFFF;
-  font-size: 16px;
-  border: none;
-  outline: none;
-  padding: 10px 20px;
-  cursor: pointer;
-  margin-right: 10px;
-}
-</style>
-
 <div style="text-align: center; padding: 20px;">
   <h2 style="color:red;"><a href="https://navi.jhmajor.cn" target="_blank">【菁林科技说】欢迎您</a><a href="https://navi.jhmajor.cn" target="_blank">点击进入主页</a></h2>
 <h3 style="color:red;"></h3>
