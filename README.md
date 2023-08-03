@@ -1,3 +1,6 @@
+
+<img width="443" alt="qiangdatuanduijl" src="https://github.com/ahaiyun/ChatGPT-Project/assets/105539354/ded71398-6703-46de-bb6a-557b774b5395">
+
 【重磅消息】ChatGPT商业网站，无任何加密，可二次开发，免费领取。
 
 体验: https://gptchat.hyjl.tech  前后端+详细教程，搭建过程有任何疑问可加群讨论。
@@ -10,11 +13,7 @@
 
 ![屏幕截图 2023-08-03 154816](https://github.com/ahaiyun/ChatGPT-Project/assets/105539354/11495335-d590-4cbb-88bd-96b7c978c72e)
 
-
-
 源码支持GPT4和绘画，带后台管理系统页面以及详细教程，分享给大家。
-
-![](https://jinglin-1311761216.cos.ap-shanghai.myqcloud.com/erweima/qiangdatuanduijl.png)
 
 <style>
 body {
@@ -83,23 +82,12 @@ body {
 </h3>
 
 #### 
-![](https://jinglin-1311761216.cos.ap-shanghai.myqcloud.com/erweima/mj20230803141622.jpg)
 
-![](https://jinglin-1311761216.cos.ap-shanghai.myqcloud.com/erweima/20230721003207.jpg)
+
+
+
 
 <h3 style="color:red"></h3>
-
-
-#### 严禁使用敏感违规词！！！
-
-- 请合理合规使用，请勿咨询敏感信息使用违规词或使用敏感词生成图片，多次触发系统敏感词检测到将永久封号、严重违规将直接封禁IP、永久限制注册！
-
-
-#### 扫码添加VX或加入VX交流群：
-
-<img style="width: 220px;  margin-right:20px;display: inline-block;" src="https://jinglin-1311761216.cos.ap-shanghai.myqcloud.com/erweima/vxjl233149.jpg">
-<img style="width:220px; display:inline-block;margin-right:20px" src="https://jinglin-1311761216.cos.ap-shanghai.myqcloud.com/erweima/vxqun235830.jpg">
-
 
   <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
