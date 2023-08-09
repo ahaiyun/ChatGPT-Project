@@ -54,6 +54,16 @@
     <a href="https://navi.jhmajor.cn/" class="button" onmouseover="this.style.backgroundColor='red'" onmouseout="this.style.backgroundColor='crimson'">菁林科技说官网</a>
   </div>
 
+  需要艺术码的滴滴我获取
+
+  ![nine艺术码](https://github.com/ahaiyun/ChatGPT-Project/assets/105539354/3350b244-9fa3-4bb6-a454-1ab41c69ed99)
+
+  <div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+您所有的灵感都集中在一个地方
+    <a href="https://ai.jjh.ink/" class="button" onmouseover="this.style.backgroundColor='red'" onmouseout="this.style.backgroundColor='crimson'">开启更多AI灵感</a>
+  </div>
+  
 
 
 
