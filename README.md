@@ -52,7 +52,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 更多资源
     <a href="https://navi.jhmajor.cn/" class="button" onmouseover="this.style.backgroundColor='red'" onmouseout="this.style.backgroundColor='crimson'">菁林科技说官网</a>
-  </div>
+  </div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   需要艺术码的滴滴我获取
 
