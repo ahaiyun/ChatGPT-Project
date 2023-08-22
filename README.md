@@ -14,7 +14,7 @@
 
 欢迎加入群聊获取最新消息，一起交流：
 
-![屏幕截图 2023-08-16 212820](https://github.com/ahaiyun/ChatGPT-Project/assets/105539354/6ce729a8-25b2-4859-b5cd-e4dedc2da700)
+![屏幕截图 2023-08-22 184528](https://github.com/ahaiyun/ChatGPT-Project/assets/105539354/1e7078b5-dc69-4cce-b492-41c77928e4e4)
 
 
 源码支持GPT4和绘画，带后台管理系统页面以及详细教程，分享给大家。
